@@ -1,0 +1,32 @@
+# --- Unreal build
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# --- IDE / local user files
+.vs/
+.vscode/
+.idea/
+.history/
+.cursor/
+.vsconfig
+*.sln
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.rsuser
+
+# --- OS junk
+.DS_Store
+Thumbs.db
+
+# --- Crash/Log
+*.log
+*.dmp
+
+# --- Plugins to ignore
+Plugins/VisualStudioTools/
+
+
